@@ -1,0 +1,9 @@
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\bin\Debug\GabrielMatosevicKlasaProcess.exe.config
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\bin\Debug\GabrielMatosevicKlasaProcess.exe
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\bin\Debug\GabrielMatosevicKlasaProcess.pdb
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\obj\Debug\GabrielMatosevicKlasaProcess.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\obj\Debug\GabrielMatosevicKlasaProcess.Form1.resources
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\obj\Debug\GabrielMatosevicKlasaProcess.Properties.Resources.resources
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\obj\Debug\GabrielMatosevicKlasaProcess.csproj.GenerateResource.cache
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\obj\Debug\GabrielMatosevicKlasaProcess.exe
+C:\Users\Učenik 4\source\repos\GabrielMatosevicKlasaProcess\GabrielMatosevicKlasaProcess\obj\Debug\GabrielMatosevicKlasaProcess.pdb
